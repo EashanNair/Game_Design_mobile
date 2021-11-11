@@ -20,7 +20,7 @@ function preload(){
   bg2Image = loadImage("Bg2.jpg")
   playerAnimation = loadAnimation("player.png","Player1.png", "player2.png")
   coinImage =loadAnimation("coin1.png","coin2.png","coin3.png","coin4.png","coin5.png","coin6.png")
-  bombImg = loadImage("bomb.png")
+  bombImg = loadImage("Bomb.png")
   orangeImage = loadImage("orange.png")
   bananaImage = loadImage("banana.png")
   appleImage = loadImage("apple.png")
